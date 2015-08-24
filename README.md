@@ -1,2 +1,2 @@
 # Tkinter-Calc
-First Python App Using Tkinter
+My first Python App Using Tkinter
